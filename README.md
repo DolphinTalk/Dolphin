@@ -31,7 +31,7 @@ Dolphin是基于区块链技术的聊天网络。有别于传统IM，Dolphin利�
 ### IM运营商
 IM运营商定义：想介入Dolphin网络的IM服务提供方。我们为这些服务提供方提供四套标准解决方案Client、Server、GateWay、dolphin-BlockChain
 #### Client
-连接网络的客户端SDK，支持IOS、Android、Windows、MacOS、以及duozhongIOT设备
+连接网络的客户端SDK，支持IOS、Android、Windows、MacOS、以及多种IOT设备
 #### Server
 与IM维持长连接的服务器，保证消息在IM与服务器之间的双向传输。一个IM运营商允许部署多个Server，支持大量的IM连接
 #### Gateway
@@ -48,5 +48,9 @@ Dolphin是符合监管的半公开网络，它是通过DPOS共识协议构建的
 #### GAS的分发和使用
 GAS是Dolphin网络运转的分配凭证，参与提供Dolphin网络的节点都会获得Dolphin，包括手续费和挖矿所得。
 Dophin采用总量恒定的GAS发行理念，有利于前期的运营。
-Dophin研发团队保留24亿GAS，每年挖矿新增4亿GAS，每三年衰减一半
+Dophin开源团队留24亿GAS用于奖励开源贡献者，每年挖矿新增4亿GAS，每三年衰减一半，用于奖励网络搭建者
+
+### 项目如何开展
+不募资，完全靠开源贡献
+
 
