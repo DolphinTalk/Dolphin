@@ -18,6 +18,8 @@ Dolphin是基于区块链技术的聊天网络。有别于传统IM，Dolphin利�
 它提供了标准通讯协议，兼容XMPP，允许任意遵循协议的IM接入，并在用户授权的前提下使用数据
 
 ## Dolphin网络
+<img src=https://github.com/DolphinTalk/Dolphin/blob/master/rc/Dolphin-network.png></img>
+
 ### 用户系统
 #### 账户系统
 我们采用逻辑账号系统，并记录对应的公钥，持有公钥的私钥才能操作用户账号和数据。如果私钥丢失，我们通过社区治理手段可以找回。
